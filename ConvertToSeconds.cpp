@@ -32,19 +32,19 @@ int main()
     
     if(days >= 1)
     {
-    cout << "Day(s): " << days << endl;
+        cout << "Day(s): " << days << endl;
     }
     if(hours >= 1)
     {
-    cout << "Hour(s): " << hours << endl;
+        cout << "Hour(s): " << hours << endl;
     }
     if(minutes >= 1)
     {
-    cout << "Minute(s): " << minutes << endl;
+        cout << "Minute(s): " << minutes << endl;
     }
     if(seconds >= 1)
     {
-    cout << "Remaining second(s): " << remainSeconds << endl;
+        cout << "Remaining second(s): " << remainSeconds << endl;
     }
     
 
